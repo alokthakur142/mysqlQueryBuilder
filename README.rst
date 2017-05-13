@@ -1,23 +1,7 @@
-PyPika - Python Query Builder
+Python Query Builder
 =============================
 
-.. _intro_start:
-
-|BuildStatus|  |CoverageStatus|  |Codacy|  |Docs|  |PyPi|  |License|
-
-Abstract
---------
-
-What is |Brand|?
-
-|Brand| is a Python API for building SQL queries. The motivation behind |Brand| is to provide a simple interface for
-building SQL queries without limiting the flexibility of handwritten SQL. Designed with data analysis in mind, |Brand|
-leverages the builder design pattern to construct queries to avoid messy string formatting and concatenation. It is also
-easily extended to take full advantage of specific features of SQL database vendors.
-
-.. _intro_end:
-
-Read the docs: http://pypika.readthedocs.io/en/latest/
+Extended from: https://github.com/kayak/pypika
 
 Installation
 ------------
